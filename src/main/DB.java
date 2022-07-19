@@ -39,7 +39,7 @@ class Workman {
     }
     @Override
     public String toString(){
-        return(name+"\n"+second_name+ "\n-"
+        return("\n"+name+"\n"+second_name+ "\n-"
                 +position+ "\n-"
                 +email+ "\n-"
                 +phone+ "\n-"
